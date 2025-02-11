@@ -6,3 +6,35 @@
   line-height: 20px;
   font-family: "Inter", Arial, sans-serif;
 }
+
+.page {
+}
+
+.header {
+}
+
+.nav {
+}
+
+.nav__logo {
+  position: relative;
+}
+
+.nav__links {
+}
+
+.nav__link {
+}
+
+.header__title {
+}
+
+.header__span-accent {
+}
+
+.header__description {
+}
+
+.header__image {
+  position: absolute;
+}
