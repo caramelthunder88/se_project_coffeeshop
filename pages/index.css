@@ -117,13 +117,13 @@
 
 .recipes {
   padding: 100px 0 215px 80px;
-  background-image: url(../images/background_recipes.svg);
-  background: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-color: #0a2750;
-  color: #ffffff;
   position: relative;
+  background: center;
+  background-image: url(../images/background_recipes.svg);
+  background-size: cover;
+  color: #ffffff;
+  background-color: #0a2750;
+  background-repeat: no-repeat;
 }
 
 .recipes__title {
