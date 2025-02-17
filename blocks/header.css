@@ -8,6 +8,8 @@
   height: 800px;
   display: flex;
   flex-direction: column;
+  z-index: 1;
+  box-sizing: border-box;
 }
 
 .header__title {
@@ -47,6 +49,7 @@
   height: 568px;
   right: 5px;
   top: 124px;
+  z-index: -1;
 }
 
 .header__paragraph {

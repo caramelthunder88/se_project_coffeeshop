@@ -50,7 +50,7 @@
 }
 
 .about__circle_animation_blurred {
-  animation: pulsate 1.3s ease-in-out infinite 0s alternate;
+  animation: pulsate 1.3s ease-in-out infinite 0s;
 }
 @keyframes pulsate {
   0% {

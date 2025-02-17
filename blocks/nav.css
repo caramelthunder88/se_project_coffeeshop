@@ -30,6 +30,7 @@
   line-height: 20px;
   transition: opacity 0.5s;
   cursor: pointer;
+  color: black;
 }
 
 .nav__link:hover {
